@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "nombre": "Ingeniería en Sistemas",
+    "universidad": "Universidad Tecnológica Nacional"
+  },
+  {
+    "id": 2,
+    "nombre": "Contabilidad",
+    "universidad": "Universidad Nacional del Nordeste"
+  },
+  {
+    "id": 3,
+    "nombre": "Ingeniería Electromecánica",
+    "universidad": "Universidad Tecnológica Nacional"
+  },
+  {
+    "id": 4,
+    "nombre": "Tecnicatura en Programación",
+    "universidad": "Universidad Tecnológica Nacional"
+  },
+  {
+    "id": 5,
+    "nombre": "Medicina",
+    "universidad": "Universidad Nacional del Nordeste"
+  },
+  {
+    "id": 6,
+    "nombre": "Ingeniería Química",
+    "universidad": "Universidad Tecnológica Nacional"
+  }
+]

@@ -1,0 +1,24 @@
+.card{
+  display: flex;
+  flex-direction: column;
+  border: 0.25px solid var(--colorUno);
+  border-radius: 20px;
+  background-color: whitesmoke;
+  flex: 1 1;
+  width: 400px;
+  align-items: left;
+  margin-top: 50px;
+}
+
+.card p{
+  color: #000;
+  margin: 0 20px;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 10px 0;
+}
+
+.card p.uni {
+  color: var(--colorTres);
+  padding: 10px 0;
+}

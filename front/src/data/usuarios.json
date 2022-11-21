@@ -1,0 +1,38 @@
+[
+  {
+    "username": "juan123",
+    "email": "juanjuan@example.com",
+    "password": "pass123",
+    "universidad": "Universidad Tecnológica Nacional"
+  },
+  {
+    "username": "jose123",
+    "email": "juanjose@example.com",
+    "password": "pass123",
+    "universidad": "Universidad Tecnológica Nacional"
+  },
+  {
+    "username": "lorem ipsum",
+    "email": "dolorsit@amet.com",
+    "password": "consectetur",
+    "universidad": "adipiscing elit"
+  },
+  {
+    "username": "pablo1",
+    "email": "pabloreal@example.com",
+    "password": "pass123",
+    "universidad": "Universidad Tecnológica Nacional"
+  },
+  {
+    "username": "pedro mendez",
+    "email": "mendezpedro@example.com",
+    "password": "pass123",
+    "universidad": "Universidad Tecnológica Nacional"
+  },
+  {
+    "username": "martin01",
+    "email": "martin01@gmail.com",
+    "password": "pass123",
+    "universidad": "Universidad Tecnológica Nacional"
+  }
+]

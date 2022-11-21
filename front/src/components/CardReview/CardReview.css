@@ -1,0 +1,26 @@
+.review{
+    display: flex;
+    flex-direction: column;
+    flex: 1 1;
+    width: 100%;
+    border: 2px solid var(--colorUno);
+    margin-top: 30px;
+    border-radius: 20px;
+    background-color: whitesmoke;
+    padding: 4px 8px 4px 15px;
+}
+.review p{
+    
+    font-weight: 700;
+    text-decoration: underline;
+    display: inline;
+}
+.review span{
+    display: inline;
+    padding-left: 10px;
+    font-size: larger;
+}
+.review p:last-child{
+    text-decoration: none;
+    font-weight: 400;
+}

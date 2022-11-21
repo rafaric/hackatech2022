@@ -1,0 +1,42 @@
+[{
+  "fecha": "Sat Nov 19 2022 14:31:33 GMT-0300",
+  "descripcion": "Los profesores explican con detalle los temas. Siempre a disposición de responder las dudas.",
+  "dificultad": 4,
+  "nivelCurso": 4,
+  "carrera": "Ingeniería en Sistemas"
+},
+{
+  "fecha": "Sun Nov 20 2022 22:31:33 GMT-0300",
+  "descripcion": "Es difícil pero los profesores le ponen onda.",
+  "dificultad": 9,
+  "nivelCurso": 5,
+  "carrera": "Ingeniería en Sistemas"
+},
+{
+  "fecha": "Fri Nov 18 2022 22:31:33 GMT-0300",
+  "descripcion": "Los parciales son fáciles",
+  "dificultad": 8,
+  "nivelCurso": 4,
+  "carrera": "Medicina"
+},
+{
+  "fecha": "Mon Oct 11 2022 22:31:33 GMT-0300",
+  "descripcion": "Los laboratorios son interesantes.",
+  "dificultad": 5,
+  "nivelCurso": 3,
+  "carrera": "Contabilidad"
+},
+{
+  "fecha": "Tue Oct 21 2022 14:21:11 GMT-0300",
+  "descripcion": "Me parece muy bueno, pero le falta contenidos actuales.",
+  "dificultad": 1,
+  "nivelCurso": 2,
+  "carrera": "Ingeniería en Sistemas"
+},
+{
+  "fecha": "Fri Oct 22 2022 11:21:32 GMT-0300",
+  "descripcion": "El final de la materia es difícil.",
+  "dificultad": 1,
+  "nivelCurso": 2,
+  "carrera": "Ingeniería Electromecánica"
+}]
